@@ -16,7 +16,7 @@ It is designed for use in **embedded systems, IoT devices, and microcontroller-b
 * 🛡️ Includes **input protection using fuses**
 * 💡 LED indicators for power status
 * 🔌 Multiple terminal connectors for easy interfacing
-* 🧩 Compact and simple PCB layout (beginner-friendly + practical)
+* 🧩 4 Layer PCB Design
 
 ---
 
